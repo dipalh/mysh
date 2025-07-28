@@ -111,16 +111,7 @@ client#1> \connected
 
 ---
 
-## 🎓 Context
-
-This project was developed as part of **CSC209: Software Tools and Systems Programming** at the University of Toronto. Each milestone progressively added complexity — from simple echo handling to building a fully functioning concurrent shell with networking.
-
-All components, including process management, piping, and networking, were implemented individually without third-party libraries or `system()` calls.
-
----
-
 ## 🙌 Author
 
 **Dipal Hingorani**  
-Builder at heart. Systems enthusiast. Proud of clean abstractions and precise execution.  
-*All code written from scratch.*
+*All code written independently.*
